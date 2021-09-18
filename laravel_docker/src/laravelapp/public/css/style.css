@@ -1,0 +1,36 @@
+.container {
+        width:480px;
+        margin:40px auto;
+}
+
+.detail-title {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.detail-body {
+    padding-top: 20px;
+}
+
+li {
+    line-height: 1.6;
+    margin-bottom:8px;
+}
+
+.heater {
+    font-size:18px;
+    border-bottom: 1px solid;
+}
+.insert{
+    margin-left: 300px;
+}
+.sumbit{
+    margin-left: 30px;
+}
+
+.add-title {
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
